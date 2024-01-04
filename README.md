@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @kumarikadev
-- 👀 I’m interested in Data Analysis and Data Engineering
-- 🌱 I’m currently learning Python and spark
-- 💞️ I’m looking to collaborate on any new data engineering challenge
-- 📫 How to reach me through my LinkedIn or email
+I'm Kumarika, a Data Engineer specializing in Python, SQL, AWS, Azure, and Spark. Passionate about leveraging data for innovative solutions in Machine Learning and Data Engineering.
+
+## Skills
+- Languages: Python, SQL, Tableau
+- Cloud: AWS, Azure
+- Big Data: Apache Spark
+
+## Experience
+- Developed ETL pipelines for efficient data processing.
+- Deployed ML models on AWS and Azure for predictive analytics.
 
 <!---
 kumarikadev/kumarikadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
